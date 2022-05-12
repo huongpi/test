@@ -120,7 +120,6 @@ Ansible -i all-in-one all -m ping
 ```
 <img src="imgs/anh5.png">
 
-
 ---
 
 ## III. Configure Openstack Train with Kolla Ansible
