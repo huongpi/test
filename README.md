@@ -145,7 +145,7 @@ vi /etc/kolla/globals.yml
 ---
 kolla_base_distro: "ubuntu"
 kolla_install_type: "source"
-kolla_internal_vip_address: 192.168.56.104
+kolla_internal_vip_address: 192.168.56.106
 network_interface: enp0s8
 neutron_external_interface: enp0s3
 nova_compute_virt_type: "qemu"
